@@ -1,9 +1,9 @@
 {
   "PL": {
-    "draw_factor": 1.0584,
+    "draw_factor": 1.0583,
     "n_matches": 1950,
     "actual_draw_rate": 0.241,
-    "pred_draw_rate": 0.2264,
-    "raw_factor": 1.0644
+    "pred_draw_rate": 0.2265,
+    "raw_factor": 1.0643
   }
 }
