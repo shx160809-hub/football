@@ -5337,5 +5337,76 @@
     ],
     "settled": false,
     "results": []
+  },
+  {
+    "date": "2026-11-18",
+    "created_at": "2026-11-18 17:59:36",
+    "prev_hash": "26f6cb7ed2e1bf1c97c1c823708df41d8e99823173c3c93a475567402ebaf557",
+    "hash": "c9e57abb62845b715251763c84d4d9fc4ea3740252392721a8a93dd6f2fe355b",
+    "n_picks": 5,
+    "picks": [
+      {
+        "match": "Bayern Munich vs Dortmund",
+        "league": "BL1",
+        "probs": [
+          0.641,
+          0.193,
+          0.166
+        ],
+        "edge": 0.0563,
+        "kelly": 0.0222,
+        "pick": "观望"
+      },
+      {
+        "match": "Barcelona vs Real Madrid",
+        "league": "PD",
+        "probs": [
+          0.4775,
+          0.2363,
+          0.2862
+        ],
+        "edge": 0.0425,
+        "kelly": 0.0105,
+        "pick": "观望"
+      },
+      {
+        "match": "Arsenal vs Liverpool",
+        "league": "PL",
+        "probs": [
+          0.5617,
+          0.2558,
+          0.1825
+        ],
+        "edge": 0.1638,
+        "kelly": 0.0622,
+        "pick": "观望"
+      },
+      {
+        "match": "Inter vs Milan",
+        "league": "SA",
+        "probs": [
+          0.5212,
+          0.2452,
+          0.2335
+        ],
+        "edge": 0.0675,
+        "kelly": 0.0215,
+        "pick": "观望"
+      },
+      {
+        "match": "Paris SG vs Marseille",
+        "league": "FL1",
+        "probs": [
+          0.5838,
+          0.2137,
+          0.2025
+        ],
+        "edge": 0.0318,
+        "kelly": 0.0063,
+        "pick": "观望"
+      }
+    ],
+    "settled": false,
+    "results": []
   }
 ]
